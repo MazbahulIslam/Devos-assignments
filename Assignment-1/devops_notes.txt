@@ -1,0 +1,17 @@
+                                                   DevOps
+                                               ..............
+ 
+DevOps is a procedure where software developers and operations teams both work toward the same aim.
+Both teams' targets are software that is quick to make, frequently updated, and any bug fee delivery to users. 
+DevOps is just not a tool-set, where automation, cooperation and continuous improvement are very important.
+
+                                                CLMS Framework
+                                             ...................   
+CLMS has 5 main words. 
+These are:
+ 
+C -> Culture (Between the team there are mutual helps, trust, and a together-works mentality)
+L -> Lean (unless it is an important step and unless cost-smart and fast delivery are confirmed)
+A -> Automation (when we see Repetitive and risky work, then this work is completed by automation tools)
+M -> Measurement (Daily monitor system, apps and team performances)
+S -> Sharing (It is most importance to share knowledge, experience and responsibility among team. Problem fastly solve when communication level is strong)
